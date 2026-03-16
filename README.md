@@ -1,82 +1,42 @@
-Hi 👋 I'm Hemang Sojitra
+# Hi 👋 I'm Hemang Sojitra
 
-🎯 Aspiring Data Analyst | Business Intelligence Enthusiast
+### 🎯 Aspiring Data Analyst | Business Intelligence Enthusiast
 
 I am passionate about turning raw data into meaningful insights. I enjoy working with data, building analytics dashboards, and solving real-world problems using Python, SQL, and BI tools.
 
-🚀 About Me
+### 🛠️ Skills & Tools :-
+_____________________________________________________________________________________________________________________________________________________________________________________________
 
-📊 Interested in Data Analytics & Business Intelligence
+SQL : Aggregation & Filtering, Joins, Window Functions, Subquery,Case Statement, CTE, Views
 
-🐍 Skilled in Python for Data Analysis
+Excel : Pivot Tables, Power Query, Data Cleaning, Power Pivot
 
-🗄️ Working with SQL & Databases
+Power BI : Data Modeling, DAX, Build Business Reports
 
-📈 Creating interactive dashboards using Power BI
+Python : Pandas, Numpy, Matplotlib , Seaborne
 
-🌱 Currently improving my data analytics & visualization skills
 
-💡 Love solving data-driven problems
+### 📂 Featured Projects
+_____________________________________________________________________________________________________________________________________________________________________________________________
 
-🛠️ Skills
-Programming
+🔹 Shield Insurance Analysis: https://github.com/hemang-515/Customer-Shopping-Behavior-
 
-Python
-
-SQL
-
-Data Analytics
-
-Pandas
-
-NumPy
-
-Data Cleaning
-
-Exploratory Data Analysis (EDA)
-
-Data Visualization
-
-Power BI
-
-Excel
-
-Web Technologies
-
-HTML
-
-CSS
-
-Django
-
-📊 Tools & Technologies
-
-Python
-
-MySQL
-
-Power BI
-
-Excel
-
-Git & GitHub
-
-Jupyter Notebook
-
-VS Code
-
-📂 Featured Projects
-
-🔹 Shield Insurance Analysis
-Data analytics project analyzing insurance data to generate business insights using Python and Power BI.
+🔹 Diamond Dataset Analysis : https://github.com/hemang-515/Diamond-Dashboard
 
 🔹 Agriculture Pesticide Management System
 E-commerce web application developed using Python & Django to manage agricultural pesticide products.
 
-📫 Connect With Me
 
-GitHub: https://github.com/hemang-515
+
+### 📫 Connect With Me
+_____________________________________________________________________________________________________________________________________________________________________________________________
+
 
 LinkedIn: https://www.linkedin.com/in/hemang515/
+
+Email: sojitrahemang515@gmail.com
+
+Mobile : 8320356204
+_____________________________________________________________________________________________________________________________________________________________________________________________
 
 ⭐ Always eager to learn new technologies and improve my data analytics skills.
