@@ -25,6 +25,9 @@ ________________________________________________________________________________
 
 🔹 Customers Shopping Behavior Analysis: https://github.com/hemang-515/Customer-Shopping-Behavior-
 
+🔹 Customers Feedback Analysis: 
+
+
 🔹 Agriculture Pesticide Management System
 E-commerce web application developed using Python & Django to manage agricultural pesticide products.
 
