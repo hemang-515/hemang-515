@@ -19,7 +19,7 @@ Python : Pandas, Numpy, Matplotlib , Seaborne
 ### 📂 Featured Projects
 _____________________________________________________________________________________________________________________________________________________________________________________________
 
-🔹 Shield Insurance Analysis: https://github.com/hemang-515/Customer-Shopping-Behavior-
+🔹 Shield Insurance Analysis: https://github.com/hemang-515/Shield_Insurance_Analysis
 
 🔹 Diamond Dataset Analysis : https://github.com/hemang-515/Diamond-Dashboard
 
