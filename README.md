@@ -27,6 +27,8 @@ ________________________________________________________________________________
 
 🔹 Customers Feedback Analysis: https://github.com/hemang-515/Customer_Feedback_Analysis
 
+ 🔹 AtliQ Grands Hospitality Analysis: https://github.com/hemang-515/AtliQ-Grands-Hospitality-Analysis-/tree/main
+
 
 🔹 Agriculture Pesticide Management System
 E-commerce web application developed using Python & Django to manage agricultural pesticide products.
