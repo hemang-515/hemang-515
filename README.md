@@ -33,6 +33,8 @@ ________________________________________________________________________________
 
 🔹 Finances Analysis: https://github.com/hemang-515/Finance-Analysis-
 
+🔹 Credit Card Report Analysis: https://github.com/hemang-515/Credit_Card_Analysis-
+
 🔹 Agriculture Pesticide Management System
 E-commerce web application developed using Python & Django to manage agricultural pesticide products.
 
