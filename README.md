@@ -19,21 +19,21 @@ Python : Pandas, Numpy, Matplotlib , Seaborne
 ### 📂 Featured Projects
 _____________________________________________________________________________________________________________________________________________________________________________________________
 
-🔹 Shield Insurance Analysis: https://github.com/hemang-515/Shield_Insurance_Analysis
+🔹 Shield Insurance Analysis: [🔗](https://github.com/hemang-515/Shield_Insurance_Analysis)
 
-🔹 Diamond Dataset Analysis : https://github.com/hemang-515/Diamond-Dashboard
+🔹 Diamond Dataset Analysis : [🔗](https://github.com/hemang-515/Diamond-Dashboard)
 
-🔹 Customers Shopping Behavior Analysis: https://github.com/hemang-515/Customer-Shopping-Behavior-
+🔹 Customers Shopping Behavior Analysis: [🔗](https://github.com/hemang-515/Customer-Shopping-Behavior-)
 
-🔹 Customers Feedback Analysis: https://github.com/hemang-515/Customer_Feedback_Analysis
+🔹 Customers Feedback Analysis: [🔗](https://github.com/hemang-515/Customer_Feedback_Analysis)
 
-🔹 AtliQ Grands Hospitality Analysis: https://github.com/hemang-515/AtliQ-Grands-Hospitality-Analysis-/tree/main
+🔹 AtliQ Grands Hospitality Analysis: [🔗](https://github.com/hemang-515/AtliQ-Grands-Hospitality-Analysis-/tree/main)
 
-🔹 Bank Analysis: https://github.com/hemang-515/Banking-Analysis-
+🔹 Bank Analysis: [🔗](https://github.com/hemang-515/Banking-Analysis-)
 
-🔹 Finances Analysis: https://github.com/hemang-515/Finance-Analysis-
+🔹 Finances Analysis: [🔗](https://github.com/hemang-515/Finance-Analysis-)
 
-🔹 Credit Card Report Analysis: https://github.com/hemang-515/Credit_Card_Analysis-
+🔹 Credit Card Report Analysis: [🔗](https://github.com/hemang-515/Credit_Card_Analysis-)
 
 🔹 Agriculture Pesticide Management System
 E-commerce web application developed using Python & Django to manage agricultural pesticide products.
