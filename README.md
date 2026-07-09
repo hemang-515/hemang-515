@@ -35,6 +35,8 @@ ________________________________________________________________________________
 
 🔹 Credit Card Report Analysis: [🔗](https://github.com/hemang-515/Credit_Card_Analysis-)
 
+🔹 Grofital Sales Analysis: [🔗](https://github.com/hemang-515/Grofital- Sales-Analysis-)
+
 🔹 Agriculture Pesticide Management System
 E-commerce web application developed using Python & Django to manage agricultural pesticide products.
 
